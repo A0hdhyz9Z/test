@@ -1,0 +1,18 @@
+
+£
+java:S1186&"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÿŠŸåùÿÿÿÿ8ó’´®ã1
+Ž
+java:S1130/"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(àÒþüøÿÿÿÿ8ø’´®ã1
+™
+java:S1130/"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(àÒþüøÿÿÿÿ8ø’´®ã1
+[
+java:S21303"9Use "Integer.parseInt" for this string-to-int conversion.(ó×“Øýÿÿÿÿ8ù’´®ã1
+[
+java:S21304"9Use "Integer.parseInt" for this string-to-int conversion.(ö°ÝÄúÿÿÿÿ8ù’´®ã1
+]	java:S125:"<This block of commented-out lines of code should be removed.(¼Ñ“Œúÿÿÿÿ8ú’´®ã1
+X	java:S125N"<This block of commented-out lines of code should be removed.(ÈÇ¯Í8ú’´®ã1
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(ÍÖÖûÿÿÿÿ8û’´®ã1
+I
+java:S1905U"'Remove this unnecessary cast to "Task".(Êëä¤úÿÿÿÿ8ý’´®ã1
+W
+java:S1128":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™þ8®æ´®ã1

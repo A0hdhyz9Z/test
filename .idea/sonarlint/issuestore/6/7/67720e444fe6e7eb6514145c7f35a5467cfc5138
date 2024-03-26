@@ -1,0 +1,35 @@
+
+V	java:S110"<This class has 6 parents which is greater than 5 authorized.(šÑÌ¤üÿÿÿÿ
+|
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "learningCurve".(ÉÏ×ü
+o
+java:S1104$"YMake learnerOption a static final constant or non-public and provide accessors if needed.(ž©ëÏ
+s
+java:S1104'"XMake streamOption a static final constant or non-public and provide accessors if needed.(Ó×ï‰þÿÿÿÿ
+u
+java:S1104+"_Make instanceLimitOption a static final constant or non-public and provide accessors if needed.(¬³ÝÈ
+x
+java:S1104/"]Make generalEvalOption a static final constant or non-public and provide accessors if needed.(Õ–™öüÿÿÿÿ
+i
+java:S11042"TMake f1Option a static final constant or non-public and provide accessors if needed.(Š®ò<
+o
+java:S11044"YMake entropyOption a static final constant or non-public and provide accessors if needed.(þþ‡ë
+k
+java:S11047"UMake cmmOption a static final constant or non-public and provide accessors if needed.(Üæˆœ
+p
+java:S1104:"UMake ssqOption a static final constant or non-public and provide accessors if needed.(§›øñúÿÿÿÿ
+w
+java:S1104<"\Make separationOption a static final constant or non-public and provide accessors if needed.(˜Òûÿÿÿÿ
+w
+java:S1104>"\Make silhouetteOption a static final constant or non-public and provide accessors if needed.(ªÙËýÿÿÿÿÿ
+s
+java:S1104@"]Make statisticalOption a static final constant or non-public and provide accessors if needed.(üÿüÒ
+p
+java:S1104X"ZMake dumpFileOption a static final constant or non-public and provide accessors if needed.(êý³„
+Q	java:S125E"<This block of commented-out lines of code should be removed.(Ë·Â¯
+V	java:S125H"<This block of commented-out lines of code should be removed.(®´”¼ýÿÿÿÿ
+A
+java:S1905~"&Remove this unnecessary cast to "int".(Í•™äýÿÿÿÿ
+D
+java:S1905")Remove this unnecessary cast to "String".(‡çÖ„øÿÿÿÿ
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(òËÍ¹øÿÿÿÿ

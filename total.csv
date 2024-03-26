@@ -1,0 +1,103 @@
+
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9419,0,0,5753,63.21,51.80,0.6208146585815977,-999.0,0.7660526208775569,-999.0,48.16,37.48
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9962,0,0,5210,66.40,55.38,0.6566042710255734,-999.0,0.7927110686719185,-999.0,54.65,23.35
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9474,1475,1678,5698,63.89,51.46,0.6244397574479303,0.4678084364097685,0.7253933616630297,0.1205491996329019,54.15,32.04
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9832,1289,1864,5340,65.19,56.35,0.6480358555233324,0.40881699968284174,0.7478796637888412,0.1848502485256658,59.02,17.05
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9818,0,0,5354,65.52,32.94,0.6471131030846295,-999.0,0.7857543017206883,-999.0,35.53,39.51
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9476,0,0,5696,63.18,37.86,0.6245715792248879,-999.0,0.7689061992859462,-999.0,37.30,33.72
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9617,0,0,5555,64.79,52.48,0.6338650145003955,-999.0,0.775908669167776,-999.0,48.35,32.19
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,10289,0,0,4883,68.63,50.88,0.6781571315581334,-999.0,0.8082164879619811,-999.0,49.82,27.13
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9198,0,0,5974,62.07,9.90,0.6062483522277881,-999.0,0.754862535904801,-999.0,10.10,52.73
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9620,0,0,5552,64.59,9.90,0.6340627471658318,-999.0,0.7760567925137141,-999.0,10.08,55.97
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,8758,0,0,6414,59.24,18.04,0.5772475612971263,-999.0,0.7319682407020477,-999.0,18.02,43.83
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9915,0,0,5257,66.26,17.04,0.653506459267071,-999.0,0.7904492366564356,-999.0,17.86,50.01
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9532,0,0,5640,63.88,11.70,0.6282625889796994,-999.0,0.7716968911917098,-999.0,12.08,52.68
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9741,0,0,5431,64.81,10.32,0.6420379646717638,-999.0,0.7820013647493277,-999.0,11.02,55.14
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9460,0,0,5712,63.20,12.72,0.6235170050092276,-999.0,0.7681065280935369,-999.0,12.60,52.85
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9268,0,0,5904,61.93,12.67,0.6108621144213024,-999.0,0.7584288052373159,-999.0,13.08,50.11
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9474,0,0,5698,63.68,17.41,0.6244397574479303,-999.0,0.7688062971678974,-999.0,18.75,47.18
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9408,0,0,5764,63.07,19.41,0.6200896388083311,-999.0,0.765500406834825,-999.0,19.84,46.07
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9157,0,0,6015,61.48,30.43,0.6035460058001582,-999.0,0.752764190883308,-999.0,29.30,39.13
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9555,0,0,5617,63.66,33.61,0.6297785394147113,-999.0,0.7728394063169814,-999.0,30.56,43.56
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+0.0,9388,2669,2538,4312,70.03,48.85,0.6852554744525547,0.5125792202803918,0.7289668827891447,0.16048031762756296,54.71,37.21
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+0.0,9056,2600,2607,4644,67.81,50.29,0.661021897810219,0.49932782792394853,0.7143082505126992,0.14855061118258697,53.52,41.50
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+0.0,8319,2178,3029,5381,62.06,58.45,0.6072262773722628,0.41828308046859997,0.6876059015580444,0.16984576998684825,57.81,25.16
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,10249,0,0,4923,68.76,51.63,0.6755206960189823,-999.0,0.8063412139569647,-999.0,51.07,37.85
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9642,0,0,5530,64.53,53.23,0.6355127867123649,-999.0,0.7771419360038688,-999.0,52.60,23.61
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9867,1496,1657,5305,66.08,50.80,0.6503427366200897,0.4744687599111957,0.7436970039570379,0.13676389886332466,54.45,35.20
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9760,1286,1867,5412,64.64,56.85,0.6432902715528606,0.40786552489692357,0.7445266610725456,0.1815921769316541,58.98,16.11
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9455,0,0,5717,63.53,32.93,0.6231874505668337,-999.0,0.7678564177528728,-999.0,34.84,38.05
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9475,0,0,5697,63.52,38.52,0.6245056683364092,-999.0,0.7688562502535805,-999.0,37.85,33.53
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9700,0,0,5472,65.30,53.11,0.639335618244134,-999.0,0.7799935670633644,-999.0,48.16,35.55
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,10168,0,0,5004,68.09,50.93,0.6701819140522014,-999.0,0.8025256511444356,-999.0,49.55,27.51
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9728,0,0,5444,65.36,9.95,0.6411811231215396,-999.0,0.7813654618473895,-999.0,10.24,56.04
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9577,0,0,5595,63.97,10.20,0.6312285789612444,-999.0,0.7739302598084771,-999.0,10.23,55.19
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9272,0,0,5900,62.79,18.11,0.6111257579752175,-999.0,0.7586319751268205,-999.0,18.09,46.88
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,10008,0,0,5164,66.79,16.73,0.6596361718955972,-999.0,0.7949166004765688,-999.0,17.53,50.94
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9169,0,0,6003,62.34,11.29,0.6043369364619035,-999.0,0.7533790723470687,-999.0,11.68,51.81
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9550,0,0,5622,63.66,10.37,0.6294489849723174,-999.0,0.7725912143030499,-999.0,10.98,54.36
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9080,0,0,6092,61.12,13.01,0.5984708673872924,-999.0,0.7488042223321788,-999.0,13.00,50.83
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9669,0,0,5503,64.41,13.18,0.6372923807012919,-999.0,0.7784710760436375,-999.0,13.26,52.73
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9837,0,0,5335,65.81,17.12,0.6483654099657263,-999.0,0.7866767963533128,-999.0,18.91,49.32
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9511,0,0,5661,63.50,22.52,0.6268784603216452,-999.0,0.7706518656565248,-999.0,22.97,43.56
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,10028,0,0,5144,67.43,31.36,0.6609543896651727,-999.0,0.7958730158730158,-999.0,31.69,39.15
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9487,0,0,5685,63.34,34.54,0.6252965989981545,-999.0,0.7694553712640415,-999.0,30.91,44.09
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,14932,5198,0,240,98.15,0.00,0.9841813867650936,1.0,0.8459577361056031,-0.06391171241919492,0.00,98.15
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,14932,5198,0,240,98.16,0.00,0.9841813867650936,1.0,0.8459577361056031,-0.06391171241919492,0.00,98.16
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,14933,5198,0,239,98.16,0.00,0.9842472976535723,1.0,0.8459904257428548,-0.0637768399268039,0.00,98.16
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,14936,5198,0,236,98.16,0.00,0.9844450303190087,1.0,0.8460884835438736,-0.06337058115063068,0.00,98.16
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,14931,5198,0,241,98.16,0.00,0.9841154758766149,1.0,0.8459250446162998,-0.06404631424827754,0.00,98.16
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,14937,5198,0,235,98.16,0.00,0.9845109412074875,1.0,0.8461211657744923,-0.06323460859400298,0.00,98.16
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,9865,0,0,5307,66.01,19.11,0.6502109148431321,-999.0,0.7880337101090387,-999.0,18.91,49.75
+pNo,TP,FP,TN,FN,Average Recall(0),Average Recall(1),PD,PF,F1,MCC,Average Gmean between recalls),Average Diff_recalls,
+1.0,14935,5198,0,237,98.16,0.00,0.9843791194305299,1.0,0.8460557994618326,-0.06350627604269893,0.00,98.16

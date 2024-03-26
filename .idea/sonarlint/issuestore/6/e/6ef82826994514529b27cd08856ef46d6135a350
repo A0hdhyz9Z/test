@@ -1,0 +1,38 @@
+
+[	java:S112x"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+J
+java:S3740U"/Provide the parametrized type for this generic.(«“°şÿÿÿÿ
+E
+java:S3740c"/Provide the parametrized type for this generic.(Ò¯©Ó
+E
+java:S3740d"/Provide the parametrized type for this generic.(Èï¥°
+J
+java:S3740e"/Provide the parametrized type for this generic.(óŒÈÿÿÿÿÿ
+E
+java:S3740~"/Provide the parametrized type for this generic.(ˆ†Æğ
+V	java:S1100"<This class has 6 parents which is greater than 5 authorized.(³ÏÌ¥øÿÿÿÿ
+r
+java:S11049"WMake modelOption a static final constant or non-public and provide accessors if needed.(¤İÁÒıÿÿÿÿ
+s
+java:S1104<"XMake streamOption a static final constant or non-public and provide accessors if needed.(Ó×ï‰şÿÿÿÿ
+v
+java:S1104@"[Make evaluatorOption a static final constant or non-public and provide accessors if needed.(ı˜ßøøÿÿÿÿ
+y
+java:S1104E"^Make maxInstancesOption a static final constant or non-public and provide accessors if needed.(çæÙ÷úÿÿÿÿ
+|
+java:S1104I"aMake sampleFrequencyOption a static final constant or non-public and provide accessors if needed.(æ¾©Òıÿÿÿÿ
+
+java:S1104N"fMake outputPredictionFileOption a static final constant or non-public and provide accessors if needed.(Í¦Óøÿÿÿÿ
+_
+java:S2095q"IUse try-with-resources or close this "PrintStream" in a "finally" clause.(È‰ÎÂ
+m
+java:S3776b"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ĞÊ¼úÿÿÿÿ
+@
+java:S1905~"*Remove this unnecessary cast to "Example".(ˆ†Æğ
+Q	java:S125~"<This block of commented-out lines of code should be removed.(ˆ†Æğ
+W	java:S125€"<This block of commented-out lines of code should be removed.(²ü†•şÿÿÿÿ
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(ŒñÎ³üÿÿÿÿ
+C
+java:S1125†"'Remove the unnecessary boolean literal.( äÒŞÿÿÿÿÿ
+C
+java:S1125Œ"'Remove the unnecessary boolean literal.(Ü¼öúúÿÿÿÿ
